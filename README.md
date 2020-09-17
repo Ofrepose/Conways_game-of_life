@@ -2,7 +2,6 @@
 Per wiki:
 > The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.[1] It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. It is Turing complete and can simulate a universal constructor or any other Turing machine.
 
-Foobar is a Python library for dealing with word pluralization.
 
 ## Preview:
 [<img src="https://github.com/Ofrepose/Conways_game-of_life/blob/master/conway_preview.gif">](conway_preview.gif)
